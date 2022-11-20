@@ -1,0 +1,7 @@
+clases
+-Github 17/08 explicacion inicial gabi (final clase)-
+-26/08 repaso de github y responsive o media query (gabi) -
+
+PORTFOLIO
+READ ME
+explicacion del proyecto en GITHUB
